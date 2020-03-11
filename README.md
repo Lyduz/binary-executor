@@ -1,4 +1,4 @@
-# Binary Exector
+# Binary Executor
 ### Shell Executor Written in Go
 
 ## Notes
