@@ -1,4 +1,4 @@
-# Binary Exector
+# Binary Executor
 ### Shell Executor Written in Go
 
 ## Notes
@@ -23,7 +23,7 @@
 
     // pass commands
     
-    ./binary-executor --path=/var/www/api/api.lyduz.com --commands="pwd; whoami; cd /var/www; uptime"
+    ./binary-executor --path=/var/www/api/api.lyduz.com --commands="pwd; whoami; cd /var/www; uptime;"
 
 ```
 
